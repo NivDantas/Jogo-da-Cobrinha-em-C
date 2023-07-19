@@ -19,3 +19,5 @@ Este é um simples jogo da cobrinha implementado em C. O jogador controla a cobr
 3. Navegue até o diretório do jogo da cobrinha em C.
 4. Compile o código-fonte do jogo usando o comando: `gcc jogo_da_cobrinha.c -o jogo_da_cobrinha`.
 5. Execute o jogo usando o comando: `./jogo_da_cobrinha`.
+
+Ou execute o código em uma IDE com a linguagem C.
